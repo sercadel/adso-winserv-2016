@@ -1,0 +1,1 @@
+powershell.exe -ExecutionPolicy Bypass -File 01-ConfInicial.ps1
